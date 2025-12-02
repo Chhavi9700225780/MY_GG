@@ -89,7 +89,7 @@ header[data-testid="stHeader"] {{ visibility: hidden; }} /* Hide Default Header 
 
 /* 4. Chat Area Spacing */
 .chat-container {{
-    margin-top: 80px; /* Push chat down so it doesn't hide behind header */
+    margin-top: 60px; /* Push chat down so it doesn't hide behind header */
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
