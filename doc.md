@@ -1,0 +1,5 @@
+- deploy this on streamlit
+- on hugging face 
+- git add README.md
+- git commit -m "Fix HF configuration with README and requirements"
+- git push origin clean-main:main --force 

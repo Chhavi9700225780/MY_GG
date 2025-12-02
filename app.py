@@ -75,6 +75,7 @@ header[data-testid="stHeader"] {{ visibility: hidden; }} /* Hide Default Header 
     border-radius: 50%;
     object-fit: cover;
     margin-right: 15px;
+    
     border: 2px solid white;
 }}
 
