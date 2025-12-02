@@ -51,8 +51,8 @@ st.markdown(f"""
 body {{
     background-color: #ffffff;
 }}
-header[data-testid="stHeader"] {{ background: #ffffff; }}
-            
+header[data-testid="stHeader"] {{ visibility: hidden; }} /* Hide Default Header */
+                       
 /* 2. Custom Orange Header Bar */
 .custom-header {{
     position: fixed;
