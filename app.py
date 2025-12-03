@@ -14,10 +14,6 @@ st.set_page_config(page_title="GitaGPT", page_icon="🕉️", layout="wide")
 
 
 
-
-  
-
-
 # ============================
 # HELPER: LOAD IMAGE AS BASE64
 # ============================
@@ -279,8 +275,11 @@ GITA USAGE RULE (IMPORTANT):
 - You must either:
   a) Paraphrase a real Gita teaching clearly, OR
   b) Quote a short verse with Chapter & Verse.
-- You must give verse from the Bhagavad Gita then first give it in sanskrit then english and give a simple explanation of this verse in proper format verse in Bold when there is a need of it or on the basis of user query  .
-
+  1) Give **one real verse from the Bhagavad Gita**.  
+  2) First write it in **Sanskrit** (in Devanagari or IAST) in next.  
+  3) Then give its **English translation** in next line .  
+  4) Then give a **simple 1-3 line explanation** in very plain language. 
+  
 - Do NOT invent verses.
 - Do NOT give long scripture explanations unless the user asks.
 - BUT you MUST always give a brief, simple explanation of any verse you reference.
