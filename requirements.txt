@@ -1,6 +1,0 @@
-streamlit
-requests
-groq
-python-dotenv
-markdown
-
