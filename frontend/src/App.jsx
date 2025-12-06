@@ -5,7 +5,8 @@ import ReactMarkdown from "react-markdown";
 
 const krishna = "/krishna (1).png";
 const arjuna = "/arjuna.png";
-const API = import.meta.env.BACKEND_URL 
+const API = import.meta.env.VITE_BACKEND_URL
+ 
 function App() {
   const [messages, setMessages] = useState([
     { role: "assistant", content: "Radhey Radhey, I am GitaGPT. Ask me anything." }
