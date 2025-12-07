@@ -5,6 +5,7 @@ import ReactMarkdown from "react-markdown";
 
 const krishna = "/krishna (1).png";
 const arjuna = "/arjuna.png";
+
 const API = import.meta.env.VITE_BACKEND_URL
  
 function App() {
